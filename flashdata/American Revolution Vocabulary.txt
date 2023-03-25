@@ -1,0 +1,25 @@
+w: Parliament
+def: A group of people who makes the laws in Great Britain.
+w: Repealed
+def: When an act or law has been thrown out or cancelled.
+w: Boycott
+def: To stop buying or using something for political reasons.
+w: Import
+def: To use ships to bring goods into a country.
+w: Patriots
+def: People who lived in the colonies and fought against British rule.
+w: Militias
+def: Armies made up of ordinary people who were not paid to be soldiers.
+w: Representatives
+def: People who are sent to a meeting to speak for a larger group of people.
+w: The Sons of Liberty
+def: Colonists who protested the actions of the British leaders.
+w: Redcoats
+def: British soldiers
+w: Protest
+def: To object or fight against something.
+w: Delegates
+def: Members of government, usually ones that were chosen by a vote, to act on behalf of others.
+w: Loyalists
+def: People who supported the British government during the American Revolution.
+24

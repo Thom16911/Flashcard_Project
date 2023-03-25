@@ -1,0 +1,25 @@
+w: proportion
+def: A statement that two ratios are equal.
+w: cross product property
+def: Multiplying both sides of a/b=c/d by bd.
+w: similar polygons
+def: Two figures that have the same shape but not same size.
+w: dilation
+def: A transformation whose pre-image and image are similar.
+w: congruence transformation
+def: A transformation in which the image and pre-image have the same side lengths (same size) and angle measurements (same shape).
+w: scale factor
+def: The ratio of any two corresponding lengths in similar figures; represented by the variable k.
+w: ratio
+def: The comparison between two amounts showing the number of times on value contains or is contained within the other.
+w: perimeter
+def: The linear measurement of the boundary of a closed two-dimensional figure (outside distance around figure - add all of the sides together).
+w: area
+def: Measures the size of surface using length measurements in two-dimensions (inside space of figure - use formula from STAAR chart)
+w: dilation algebraic notation
+def: ( x , y ) → ( kx , ky )
+w: enlargement
+def: An image that is larger than the pre-image; a dilation with a scale factor greater than 1 ( k > 1 )
+w: reduction
+def: An image that is smaller than the pre-image; a dilation with a scale factor less than 1 but greater than 0 ( 0 < k < 1 )
+24

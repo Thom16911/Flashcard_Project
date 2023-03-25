@@ -1,0 +1,43 @@
+w: der Anzug
+def: the business suit
+w: der Badeanzug
+def: the swimsuit
+w: der Schlafanzug
+def: the pajama (sleep suit)
+w: der Schmuck
+def: the jewelry
+w: das Kleid
+def: the dress
+w: die Armbanduhr
+def: the watch
+w: die Fliege
+def: the bowtie
+w: der Gürtel
+def: the belt
+w: die Krawatte
+def: the necktie
+w: der Pyjama
+def: the pajamas
+w: altmodisch
+def: old fashioned
+w: modern
+def: modern
+w: bequem
+def: comfortable
+w: unbequem
+def: uncomfortable
+w: teuer
+def: expensive
+w: billig
+def: cheap
+w: einfarbig
+def: one color
+w: bunt
+def: colorful
+w: schick
+def: fancy
+w: knallig
+def: gaudy; tacky
+w: sportlich
+def: athletic
+42
